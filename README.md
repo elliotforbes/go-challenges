@@ -26,7 +26,9 @@ The application, when run, should return system utilization such as CPU utilizat
 <details>
   <summary>Tutorials</summary>
   
-  [Getting Started with Go](https://tutorialedge.net/golang/getting-started-with-go/)
+  The following tutorials should help you to complete this challenge:
+  
+  * [Getting Started with Go](https://tutorialedge.net/golang/getting-started-with-go/)
 </details>
 
 
@@ -44,7 +46,9 @@ This application will run indefinitely on a machine and expose information on gi
 <details>
   <summary>Tutorials</summary>
   
-  [Creating a RESTful API in Go](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
+  The following tutorials should help you to complete this challenge:
+  
+  * [Creating a RESTful API in Go](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
 </details>
 
 ## Challenge 3
