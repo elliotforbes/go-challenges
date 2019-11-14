@@ -53,7 +53,21 @@ This application will run indefinitely on a machine and expose information on gi
 
 ## Challenge 3
 
-> TBD
+> This challenge will be to split up the new REST API application you have developed in Challenge 2 and utilize Go Modules. 
+
+Go Modules and the go mod tool have been deemed the official strategy for managing dependencies in your Go applications. Break up the existing application so that you create an entrypoint main.go file in the root of your directory as well as a sub-module which contains your endpoint code.
+
+#### Key Concepts
+
+* You will learn how to effectively break up your simple Go applications into larger, better structured applications using Go Modules as your dependency management system
+
+<details>
+  <summary>Tutorials</summary>
+  
+  The following tutorials should help you to complete this challenge:
+  
+  * [Go Modules Tutorial](https://tutorialedge.net/golang/go-modules-tutorial/)
+</details>
 
 ## Challenge 4
 
